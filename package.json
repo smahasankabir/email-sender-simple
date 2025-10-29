@@ -13,7 +13,7 @@
     "nodemailer": "^1.5.0",
     "nodemailer-smtp-transport": "^1.0.3",
     "underscore": "^1.8.3",
-    "validator": "^3.37.0"
+    "validator": "^13.15.20"
   },
   "devDependencies": {},
   "scripts": {}
